@@ -1,0 +1,34 @@
+hidirname : 2011024030 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+dirname : 201120430 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : sample_data_a.txt size : 1853 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : sample_data_b.txt size : 3518 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : sample_data_c.txt size : 2247 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : sample_data_d.txt size : 3661 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+dirname : ss creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : testdata.txt size : 275 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : 이것은 size : 40 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+dirname : 2011024030 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+dirname : 201120430 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : sample_data_a.txt size : 1853 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : sample_data_b.txt size : 3518 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : sample_data_c.txt size : 2247 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : sample_data_d.txt size : 3661 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+dirname : ss creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : testdata.txt size : 275 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : 이것은 size : 40 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+dirname : 2011024030 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+dirname : 201120430 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : sample_data_a.txt size : 1853 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : sample_data_b.txt size : 3518 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : sample_data_c.txt size : 2247 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : sample_data_d.txt size : 3661 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+dirname : ss creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : testdata.txt size : 275 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+filename : 이것은 size : 40 creation :Mon Dec 11 2017 15:09:13 GMT+0900 (대한민국 표준시)
+﻿이것은 testdata!!!이것은 testdata!!!
+이것은 testdata!!!
+이것은 testdata!!!
+
+이것은 testdata!!!이것은 testdata!!!이것은 testdata!!!
+이것은 testdata!!!이것은 testdata!!!
+이것은 testdata!!!이것은 체크하기 위한 테스트 텍스트 아마아이이아ㅏ xit
